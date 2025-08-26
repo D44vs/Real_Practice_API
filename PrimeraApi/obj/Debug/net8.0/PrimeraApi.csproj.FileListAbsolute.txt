@@ -30,3 +30,35 @@ C:\Users\estudiante.upb\Desktop\PrimeraApi\PrimeraApi\PrimeraApi\obj\Debug\net8.
 C:\Users\estudiante.upb\Desktop\PrimeraApi\PrimeraApi\PrimeraApi\obj\Debug\net8.0\PrimeraApi.pdb
 C:\Users\estudiante.upb\Desktop\PrimeraApi\PrimeraApi\PrimeraApi\obj\Debug\net8.0\PrimeraApi.genruntimeconfig.cache
 C:\Users\estudiante.upb\Desktop\PrimeraApi\PrimeraApi\PrimeraApi\obj\Debug\net8.0\ref\PrimeraApi.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\appsettings.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.staticwebassets.endpoints.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.exe
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.deps.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.runtimeconfig.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\PrimeraApi.pdb
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.csproj.AssemblyReference.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.AssemblyInfoInputs.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.AssemblyInfo.cs
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.csproj.CoreCompileInputs.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.sourcelink.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\scopedcss\bundle\PrimeraApi.styles.css
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.csproj.Up2Date
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\refint\PrimeraApi.dll
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.pdb
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\PrimeraApi.genruntimeconfig.cache
+D:\Desktop\Desarrollo Movil\Real_Practice_API\PrimeraApi\obj\Debug\net8.0\ref\PrimeraApi.dll

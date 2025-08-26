@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886B6659-33B9-456D-BCAE-963FF2CC7D75}|PrimeraApi\\PrimeraApi.csproj|d:\\desktop\\desarrollo movil\\real_practice_api\\primeraapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886B6659-33B9-456D-BCAE-963FF2CC7D75}|PrimeraApi\\PrimeraApi.csproj|solutionrelative:primeraapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886B6659-33B9-456D-BCAE-963FF2CC7D75}|PrimeraApi\\PrimeraApi.csproj|d:\\desktop\\desarrollo movil\\real_practice_api\\primeraapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886B6659-33B9-456D-BCAE-963FF2CC7D75}|PrimeraApi\\PrimeraApi.csproj|solutionrelative:primeraapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PrimeraApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PrimeraApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:06:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PrimeraApi\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "PrimeraApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:50:17.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

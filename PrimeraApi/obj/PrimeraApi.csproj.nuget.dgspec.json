@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\estudiante.upb\\Desktop\\PrimeraApi\\PrimeraApi\\PrimeraApi\\PrimeraApi.csproj": {}
+    "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\PrimeraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\estudiante.upb\\Desktop\\PrimeraApi\\PrimeraApi\\PrimeraApi\\PrimeraApi.csproj": {
+    "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\PrimeraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\estudiante.upb\\Desktop\\PrimeraApi\\PrimeraApi\\PrimeraApi\\PrimeraApi.csproj",
+        "projectUniqueName": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\PrimeraApi.csproj",
         "projectName": "PrimeraApi",
-        "projectPath": "C:\\Users\\estudiante.upb\\Desktop\\PrimeraApi\\PrimeraApi\\PrimeraApi\\PrimeraApi.csproj",
-        "packagesPath": "C:\\Users\\estudiante.upb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\estudiante.upb\\Desktop\\PrimeraApi\\PrimeraApi\\PrimeraApi\\obj\\",
+        "projectPath": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\PrimeraApi.csproj",
+        "packagesPath": "C:\\Users\\Daavs\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Desarrollo Movil\\Real_Practice_API\\PrimeraApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\VS\\Components\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\estudiante.upb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daavs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,7 +25,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
